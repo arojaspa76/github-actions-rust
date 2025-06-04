@@ -1,4 +1,4 @@
-[![Tests](https://github.com/arojaspa76/github-actions-rust/actions/workflows/tests.yml/badge.svg)](https://github.com/arojaspa76/github-actions-rust/actions/workflows/tests.yml)
+[![Tests](https://github.com/arojaspa76/github-actions-rust/actions/workflows/tests.yml/badge.svg)](https://github.com/arojaspa76/github-actions-rust/actions/workflows/tests.yml)[![Build binary release](https://github.com/arojaspa76/github-actions-rust/actions/workflows/release.yml/badge.svg)](https://github.com/arojaspa76/github-actions-rust/actions/workflows/release.yml)[![Clippy](https://github.com/arojaspa76/github-actions-rust/actions/workflows/lint.yml/badge.svg)](https://github.com/arojaspa76/github-actions-rust/actions/workflows/lint.yml)[![Rustfmt](https://github.com/arojaspa76/github-actions-rust/actions/workflows/rustfmt.yml/badge.svg)](https://github.com/arojaspa76/github-actions-rust/actions/workflows/rustfmt.yml)
 
 # Example of RUST CI Pipeline
 This code was tested with Github actions
